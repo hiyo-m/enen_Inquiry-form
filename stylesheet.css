@@ -42,7 +42,7 @@ a.header-center:hover {
 }
 
 .contact-form {
-  float:right;
+  float:left;
 }
 
 input, textarea {
@@ -57,8 +57,9 @@ input, textarea {
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
+  float: left;
 }
 
 .map {
-  float: left;
+  float: right;
 }
