@@ -37,10 +37,14 @@ a.header-center:hover {
   text-align: center;
 }
 
+.map {
+  float: right;
+  padding-top: 200px;
+  padding-left: 200px;
+}
+
 .contact-form {
-  padding-left: 250px;
-  display:flex;
-  flex-flow: column;
+  padding-left: 200px;
 }
 
 input, textarea {
