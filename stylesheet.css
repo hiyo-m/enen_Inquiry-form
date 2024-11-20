@@ -38,10 +38,9 @@ a.header-center:hover {
 }
 
 .contents {
-  display: inline-block;
-  width: 700px;
-  padding-top: 200px;
-  margin: 0 auto; 
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 200px;
 }
 
 .contact-form {
