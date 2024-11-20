@@ -40,7 +40,12 @@ a.header-center:hover {
 .contents {
   display: inline-block;
   width: 700px;
+  padding-top: 200px;
   margin: 0 auto; 
+}
+
+.contact-form {
+  float:left;
 }
 
 input, textarea {
