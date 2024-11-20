@@ -43,6 +43,10 @@ a.header-center:hover {
   padding-top: 150px;
 }
 
+.map {
+  float: left;
+}
+
 .contact-form {
   float:left;
 }
