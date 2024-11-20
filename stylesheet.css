@@ -42,6 +42,10 @@ a.header-center:hover {
   padding-left: 250px;
 }
 
+.contact-form container {
+  width: 700px;
+}
+
 input, textarea {
   width: 400px;
   margin-top: 10px;
