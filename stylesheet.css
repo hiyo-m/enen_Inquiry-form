@@ -43,10 +43,12 @@ a.header-center:hover {
 }
 
 .map {
+  position: relative;
   float: left;
 }
 
 .contact-form {
+  position: relative;
   fliat: left;
 }
 
