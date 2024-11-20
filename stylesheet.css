@@ -52,6 +52,7 @@ input, textarea {
 }
 
 .contact-submit {
+  float: left;
   background-color: #dee7ec;
   color: #889eab;
 }
