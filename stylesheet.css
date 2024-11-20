@@ -8,10 +8,6 @@ a {
   text-decoration: none;
 }
 
-.container {
-  height: 1000px;
-}
-
 header {
   height: 75px;
   width: 100%;
@@ -42,7 +38,7 @@ a.header-center:hover {
 }
 
 .contents {
-  padding: 100px 100px;
+  padding: 100px 100px 200px 100px;
 }
 
 .contact-form {
