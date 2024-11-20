@@ -38,9 +38,11 @@ a.header-center:hover {
 }
 
 .contents {
-  padding: 150px 100px;
-  margin:0 auto;
-  display:inline-block;
+  padding: 100px 100px;
+}
+
+.contact-form {
+  float:right;
 }
 
 input, textarea {
@@ -55,4 +57,8 @@ input, textarea {
 .contact-submit {
   background-color: #dee7ec;
   color: #889eab;
+}
+
+.map {
+  float: left;
 }
