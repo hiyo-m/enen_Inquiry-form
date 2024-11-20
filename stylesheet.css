@@ -49,7 +49,7 @@ a.header-center:hover {
 
 .contact-form {
   position: relative;
-  fliat: left;
+  display:inline;
 }
 
 input, textarea {
