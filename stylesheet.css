@@ -38,7 +38,8 @@ a.header-center:hover {
 }
 
 .contact-form {
-  padding-top: 100px;
+  padding-top: 250px;
+  padding-left: 250px;
 }
 
 input, textarea {
