@@ -39,12 +39,8 @@ a.header-center:hover {
 
 .contents {
   display: inline-block;
-  padding-top: 200px;
+  width: 700px;
   margin: 0 auto; 
-}
-
-.contact-form {
-  padding-left: 200px;
 }
 
 input, textarea {
