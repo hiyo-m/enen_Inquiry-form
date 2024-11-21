@@ -46,7 +46,8 @@ a.header-center:hover {
 }
 
 .contents {
-  padding: 100px 100px 200px 100px;
+ display: block;
+padding:15px;
 }
 
 input, textarea {
@@ -63,6 +64,3 @@ input, textarea {
   color: #889eab;
 }
 
-.map {
-  float: right;
-}
