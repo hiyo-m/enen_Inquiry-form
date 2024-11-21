@@ -40,7 +40,7 @@ header {
 }
 
 .contact-form  {
-   margin: 50px 150px;
+   margin: 100px 150px 0 150px;
 }
 
 .map  {
@@ -61,7 +61,7 @@ header {
 input, textarea {
   width: 350px;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   padding: 20px;
   font-size: 18px;
   border: 1px solid #dee7ec;
