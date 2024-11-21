@@ -34,8 +34,8 @@ header {
 
 .contents {
   display: inline-block;
-  margin: 150px 100px;
   float: left;
+  pandding: 150px 150px;
 }
 
 .contents h3 h4 {
