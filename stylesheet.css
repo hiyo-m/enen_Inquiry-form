@@ -36,6 +36,13 @@ header {
   pandding: 100px 150px;
 }
 
+.contents img {
+  position: absolute;
+  left: 50%;
+  top: 100px;
+  width: 50%;
+}
+
 .contents h3 {
   color: #524748;
 }
