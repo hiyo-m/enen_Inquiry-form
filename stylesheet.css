@@ -24,10 +24,6 @@ header {
   float: left;
 }
 
-a.header-center:hover {
-  opacity: 1;
-}
-
 .header-center a {
   margin: auto;
   line-height: 75px;
@@ -39,10 +35,6 @@ a.header-center:hover {
 
 .contents {
   padding: 100px 100px 200px 100px;
-}
-
-.contact-form {
-  float:left;
 }
 
 input, textarea {
