@@ -37,6 +37,10 @@ a.header-center:hover {
   text-align: center;
 }
 
+.top-wrapper {
+  width: 50%;
+}
+
 .contact-form {
   float: left;
 }
