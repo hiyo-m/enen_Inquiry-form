@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: "HiraMinProN-W6";
-  background-color: #f8f4e6;
+  background-color: white;
 }
 
 a {
@@ -40,7 +40,7 @@ header {
 }
 
 .contact-form  {
-   margin: 100px 150px;
+   margin: 50px 150px;
 }
 
 .map  {
