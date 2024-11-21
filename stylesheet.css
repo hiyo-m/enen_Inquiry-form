@@ -35,7 +35,7 @@ header {
 .contents {
   display: inline-block;
   float: left;
-  pandding: 150px 150px;
+  pandding: 100px 150px;
 }
 
 .contents h3 h4 {
