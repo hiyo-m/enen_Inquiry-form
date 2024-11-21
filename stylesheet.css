@@ -33,8 +33,6 @@ header {
 }
 
 .contents {
-  display: inline-block;
-  float: left;
   pandding: 100px 150px;
 }
 
