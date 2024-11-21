@@ -37,14 +37,6 @@ a.header-center:hover {
   text-align: center;
 }
 
-.top-wrapper img{
-  width: 50%;
-}
-
-.contact-form {
-  float: left;
-}
-
 input, textarea {
   width: 350px;
   margin-top: 10px;
