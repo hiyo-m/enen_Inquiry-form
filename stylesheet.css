@@ -32,6 +32,10 @@ header {
   text-align: center;
 }
 
+.contact-form {
+  float: left;
+}
+
 .contents {
   padding: 100px 100px 200px 100px;
 }
@@ -43,7 +47,6 @@ input, textarea {
   padding: 20px;
   font-size: 18px;
   border: 1px solid #dee7ec;
-  float: left;
 }
 
 .contact-submit {
