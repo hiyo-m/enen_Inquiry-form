@@ -45,11 +45,6 @@ a.header-center:hover {
   float: left;
 }
 
-.contents {
- display: block;
-padding:15px;
-}
-
 input, textarea {
   width: 350px;
   margin-top: 10px;
